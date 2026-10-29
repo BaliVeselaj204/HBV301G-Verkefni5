@@ -8,7 +8,7 @@
 
 | Auðkenni | Gæðaeiginleiki | Krafa og aðstæður | Sannreyning | Rökstuðningur og sértækar forsendur |
 |---|---|---|---|---|
-| GÆ-1 | … | … | … | … |
+| GÆ-1 | Áreiðanleiki sendingar greiðslubeiðna | Að minnsta kosti 95% greiðslubeiðna skulu berast innan 5 mínútna frá skráðri brottför ökutækis af bílastæði | Að mæla 30 mismunandi bíla og telst þá krafan sannreynd ef á minnsta kosti 28 bílar fá greiðslubeiðni innan 5 mínútna | Það er ekki kostur að greiðslubeiðnin berist innan 10 sekúndna |
 | GÆ-2 | … | … | … | … |
 | GÆ-3 | … | … | … | … |
 
