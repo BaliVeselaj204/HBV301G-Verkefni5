@@ -1,13 +1,7 @@
 ﻿# Viðskiptareglur
 
-> Skráið þrjár reglur í þremur ólíkum flokkum: **staðreyndir, takmarkanir, aðgerðareglur, ályktanir og útreikningar**. Ekki þarf reglu í öllum fimm flokkum.
->
-> Regla lýsir því sem gildir í starfseminni, óháð hugbúnaði. Skrifið eina reglu í hverri reglusetningu. Greinið uppruna og merkið eigin tillögur eða forsendur skýrt. Vísið í fyrirliggjandi ferli eða verkefni notanda með auðkenni og tengli ef það er til.
-
 | Auðkenni | Stutt heiti | Reglusetning | Flokkur | Rök fyrir flokkun (1 setning) | Uppruni og staða (staðfest / tillaga / forsenda) | Ferli eða verkefni notanda (auðkenni/tengill) |
 |---|---|---|---|---|---|---|
-| VR-1 | … | … | … | … | … | … |
-| VR-2 | … | … | … | … | … | … |
-| VR-3 | … | … | … | … | … | … |
-
-Veljið tvær reglur sem kalla á stuðning kerfisins og skráið [afleiddar virknikröfur og samþykktarpróf](derived-requirements.md). Endurtakið ekki reglutextann þar.
+| VR-1 | Útreikningur stæðisgjalds. | Stæðisgjald ákvarðast samkvæmt lengd dvalar og þeirri gjaldskrá sem gildir fyrir viðkomandi gjaldsvæði og dvalartíma. | Útreikningar | Segir til um hvernig greiðsluupphæð er ákvörðuð. | Tillaga, endurnýtt úr [BR-1](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/business_rule.md#brg-1) frá verkefni 1 | [UR-2.1 - Rétt upphæð fyrir rukkun](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/user_requirement.md#ur-21) |
+| VR-2 | Ein greiðslubeiðni fyrir hverja dvöl. | Fyrir hverja gjaldskylda dvöl má aðeins stofna eina greiðslubeiðni	 | Takmarkanir | Takmarkar fjölda greiðslubeiðna vegna sömu dvalar. | Tillaga, byggð á [UR-2.2](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/user_requirement.md#ur-22) úr verkefni 1. | [UR-2.2 - Sjálfvirk greiðslubeiðni eftir stæðistíma](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/user_requirement.md#ur-22) |
+| VR-3 | Greiðslubeiðni við brottför. | Þegar gjaldskyldri dvöl lýkur skal stofna greiðslubeiðni á viðkomandi notanda | Aðgerðareglur | Tiltekið atvik kallar á aðgerð. | Tillaga, byggð á [UR-2.2](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/user_requirement.md#ur-22) frá verkefni 1 | [UR-2.2 - Sjálfvirk greiðslubeiðni eftir stæðistíma](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/user_requirement.md#ur-22) |
