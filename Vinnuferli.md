@@ -13,19 +13,19 @@
 | Árekstrar og lausnir | Við vorum búinn að ræða um árekstra sem gætu komið upp saman. Bali fyllti svo inn í skjalið | [PR #4](https://github.com/BaliVeselaj204/HBV301G-Verkefni5/pull/4) |
 | Viðskiptareglur og flokkun | Kristinn skrifaði viðskiptareglur og flokkun | [PR #6](https://github.com/BaliVeselaj204/HBV301G-Verkefni5/pull/6) |
 | Virknikröfur, próf og rekjanleiki | Kristinn vann í þessu | [PR #9](https://github.com/BaliVeselaj204/HBV301G-Verkefni5/pull/9) |
-| Samræming og lokayfirferð | Báðir fóru yfir breytinganna. Sá sem skrifaði auðvitað og hin í gegnum pull request | [Pull Requests](https://github.com/BaliVeselaj204/HBV301G-Verkefni5/pulls?q=is%3Apr+state%3Aclosed) |
+| Samræming og lokayfirferð | Báðir fóru yfir breytingarnar. Sá sem skrifaði auðvitað og hin í gegnum pull request | [Pull Requests](https://github.com/BaliVeselaj204/HBV301G-Verkefni5/pulls?q=is%3Apr+state%3Aclosed) |
 
 Lýsið hvernig þið notuðuð issues, branches, commit/push og pull requests. Hvernig rýnduð þið vinnu hvors annars og hvað breyttist eftir rýni?
 - Við ræddum fyrst saman hvernig við vildum skipta um verkum
 - Svo gerðum við issues fyrir hvert verkefni
 - Nýtt branch var gert fyrir hvert issue
-- Þegar búið var með ákveðið verkefni, bjó sú aðili til pull request og tengdi við issue.
-- Svo fór hin yfir og annaðhvort lagaði eða samþykkti breytingar.
+- Þegar búið var með ákveðið verkefni, bjó sú aðili til pull request og tengdi við issue
+- Svo fór hin yfir og annaðhvort lagaði eða samþykkti breytingar (merge)
 
 ## Ígrundun
 
 - Hvað gekk vel? Flest gekk vel. Sérstaklega með verkefnið í git.
-- Hvað þurfti helst að bæta við endurnýtingu fyrri vinnu? Það voru kannski stundum hlutir sem þrufti að reyna orða þannig að það passaði við það sem við vorum búinn að hugsa fyrir þetta verkefni, en annars gekk bara vel.
+- Hvað þurfti helst að bæta við endurnýtingu fyrri vinnu? Það voru kannski stundum hlutir sem þrufti að orða þannig að það passaði við það sem við vorum búinn að hugsa fyrir þetta verkefni, en annars gekk bara vel.
 - Hvað lærðuð þið af því að gera kröfur sannreynanlegar og tengja reglur við kröfur og próf? Stundum getur verið smá ruglandi og maður dettur í því að búa til kröfur sem eru ekki nógu sannreynanlegar. Maður sér muninn þegar maður byrjar að vinna með kröfurnar hversu auðveldara það verður seinna.
 - Hvað mynduð þið gera öðruvísi næst? Kannski byrja smá fyrr í verkefninu. Við náðum ekki að taka umræðu á fimmtudaginn.
 
